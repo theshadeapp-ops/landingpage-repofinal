@@ -111,7 +111,7 @@ const Footer = () => {
             className="inline-flex items-center space-x-2 text-primary hover:underline"
           >
             <FaEnvelope size={14} />
-            <span>theshadeapp@gmail.com</span>
+            <span>support@theshadeapp.com</span>
           </a>
         </div>
       </div>

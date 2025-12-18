@@ -6,8 +6,9 @@ const ContactInfo = () => {
     {
       icon: FaEnvelope,
       label: 'Email',
-      value: 'theshadeapp@gmail.com',
-      href: 'mailto:theshadeapp@gmail.com',
+      value: 'support@theshadeapp.com',
+      href: 'mailto:support@theshadeapp.com',
+      
     },
     {
       icon: FaPhone,
