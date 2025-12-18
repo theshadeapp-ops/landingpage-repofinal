@@ -53,9 +53,9 @@ const HeroSection = () => {
           >
             Why ride alone,
             <br />
-            <span className="text-primary">when you can share</span>
+            <span className="text-primary">Why ride alone?  </span>
             <br />
-            a journey!?
+            Just SHADE!?
           </motion.h1>
 
           <motion.p

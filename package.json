@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
+    "firebase": "^10.14.1",
     "framer-motion": "^10.16.16",
     "gsap": "^3.14.2",
     "ogl": "^1.0.11",
