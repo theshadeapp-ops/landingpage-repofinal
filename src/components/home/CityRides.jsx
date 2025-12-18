@@ -13,10 +13,10 @@ const CityRides = () => {
           className="text-center mb-12"
         >
           <h2 className="text-4xl md:text-5xl font-enigma text-secondary mb-6">
-            City <span className="text-primary">Rides</span>
+            Join <span className="text-primary">Us</span>
           </h2>
           <p className="text-xl md:text-2xl text-gray-700 font-metropolis mb-8">
-            Find fun, anywhere in the city
+            No fuel , No friends? SHADE gives you both!
           </p>
           <div className="w-24 h-1 bg-gradient-to-r from-transparent via-primary to-transparent mx-auto"></div>
         </motion.div>

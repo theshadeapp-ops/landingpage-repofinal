@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion'
 import HeroSection from '../components/home/HeroSection'
 import AboutShade from '../components/home/AboutShade'
+import StatsSection from '../components/home/StatsSection'
 import Features from '../components/home/Features'
 import HowItWorks from '../components/home/HowItWorks'
 import CityRides from '../components/home/CityRides'
@@ -15,6 +16,7 @@ const Home = () => {
     >
       <HeroSection />
       <AboutShade />
+      <StatsSection />
       <Features />
       <HowItWorks />
       <CityRides />

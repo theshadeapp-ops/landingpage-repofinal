@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import { motion } from 'framer-motion'
-import logoImage from '../assert/sahdelogo.png'
+import logoImage from '../assert/shade logo.png'
 
 const Navbar = () => {
 

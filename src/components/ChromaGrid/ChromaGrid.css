@@ -5,10 +5,11 @@
   display: grid;
   grid-template-columns: repeat(var(--cols, 3), 320px);
   grid-auto-rows: auto;
-  justify-content: center;
+  justify-content: start;
   gap: 0.75rem;
-  max-width: 1200px;
-  margin: 0 auto;
+  max-width: none;
+  min-width: max-content;
+  margin: 0;
   padding: 1rem;
   box-sizing: border-box;
   --x: 50%;
