@@ -58,16 +58,9 @@ const HeroSection = () => {
 
           <motion.p
             variants={itemVariants}
-            className="text-xl md:text-2xl text-gray-800 font-metropolis mb-4 max-w-3xl mx-auto"
+            className="text-xl md:text-2xl text-gray-800 font-metropolis mb-10 max-w-3xl mx-auto"
           >
             Connecting People
-          </motion.p>
-
-          <motion.p
-            variants={itemVariants}
-            className="text-lg md:text-xl text-gray-700 font-metropolis mb-10 max-w-2xl mx-auto"
-          >
-            Share the Ride, Split the Cost!
           </motion.p>
 
           <motion.div variants={itemVariants}>
