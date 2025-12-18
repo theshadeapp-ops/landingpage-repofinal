@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "SHADE - College-focused bike ride-sharing application",
   "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "firebase": "^10.14.1",
